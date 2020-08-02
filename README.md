@@ -6,4 +6,4 @@ Basically when you create an account and skip payment, every time you connect yo
 
 Use this script (made for MAC OS X) to automatically renew the connection on every 20 seconds. 
 
-just have to run it in background.
+Just have to change the login/password with what you created and run it in background.
